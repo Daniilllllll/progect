@@ -34,3 +34,4 @@ sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]
 
 sys.real_prefix = sys.prefix
 sys.prefix = base
+wassup
